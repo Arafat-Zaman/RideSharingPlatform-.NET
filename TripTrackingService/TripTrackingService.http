@@ -1,0 +1,6 @@
+@TripTrackingService_HostAddress = http://localhost:5186
+
+GET {{TripTrackingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
